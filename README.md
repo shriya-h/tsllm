@@ -1,3 +1,15 @@
+# Preprocessing
+
+parse_input.py takes all the txt files from the "Albums" folder and dumps the contents into input.txt after doing some cleaning
+
+
+# Decoder-based transformer with character-level tokens
+
+Code is present in taygpt.py, and output is in output_taylors_version.txt
+
+Interactive notebook in gpt.ipynb
+
+
 # References:
 
 Taylor Swift lyrics txt files: [ishijo/Taylor-Swift-Lyrics](https://github.com/ishijo/Taylor-Swift-Lyrics/tree/main/data/Albums)
